@@ -7,7 +7,7 @@ https://archive.ics.uci.edu/dataset/45/heart+disease
 To run the code on your version of Python, ensure Python is up to date. 
 Then, open Terminal:
 Install the ucimlrepo package:
-  conda install ucimlrepo
+  pip install ucimlrepo
   
 Next, importthe dataset into your code: 
   from ucimlrepo import fetch_ucirepo 
