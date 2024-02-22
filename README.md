@@ -1,4 +1,4 @@
-# CAD_Prediciton_Using_ML
+# CAD_Prediction_Using_ML
 BMI 312 Term Project
 
 Database with documentation: Heart Disease - DOI 10.24432/C52P4X
