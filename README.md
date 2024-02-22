@@ -113,14 +113,8 @@ Ideally, this project would be undertaken by a multidisciplinary team of data sc
 
 Conclusion
 By comparing the effectiveness of Random Forest Classification, Neural Network Classification, and Logistic Regression in predicting heart disease, this research aims to contribute valuable insights to the medical community and support the advancement of diagnostic tools. Through analysis and model development, the project seeks to highlight the potential of machine learning techniques in enhancing heart disease prediction and treatment strategies.
+
 References
 Introductory research paper:  
 International application of a new probability algorithm for the diagnosis of CAD
 Janosi,Andras, Steinbrunn,William, Pfisterer,Matthias, and Detrano,Robert. (1988). Heart Disease. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
-
-Most recent papers citing this dataset:
-A Submodularity-based Agglomerative Clustering Algorithm for the Privacy Funnel by Ni Ding, Parastoo Sadeghi. 2019
-Leveraging Simple Model Predictions for Enhancing its Performance by Amit Dhurandhar, Karthikeyan Shanmugam, Ronny Luss. 2019
-PPCD: Privacy-preserving clinical decision with cloud support by Hui Ma, Xuyang Guo, Yuan Ping, Baocang Wang, Yuehua Yang, Zhili Zhang, Jingxian Zhou. 2019
-ActShare: Sensitive Data Sharing with Reliable Leaker Identification by Zhiyi Zhang, Yu Guan, Xinyu Ma, Lixia Zhang. 2019
-A review of domain adaptation without target labels by Wouter Kouw, Marco Loog. 2019
